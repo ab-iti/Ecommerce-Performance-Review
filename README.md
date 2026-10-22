@@ -1,14 +1,15 @@
 # E-Commerce Sales Analytics & Reporting
 
+## Dashboard Preview
+
+![E-Commerce Performance Review Dashboard](screenshots/dashboard_overview.png)
+
 ## Project Overview
 
 This project explores e-commerce sales performance through an Excel-based analytics and reporting solution. It focuses on revenue realization, profitability, discounting, customer segments, order completion, returns, and delivery performance.
 
 The objective is to transform raw sales data into structured analysis and management-friendly reporting that supports business decisions.
 
-## Dashboard Preview
-
-![E-Commerce Performance Review Dashboard](screenshots/dashboard_overview.png)
 
 ## Key Insights
 
