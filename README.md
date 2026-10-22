@@ -6,6 +6,14 @@ This project explores e-commerce sales performance through an Excel-based analyt
 
 The objective is to transform raw sales data into structured analysis and management-friendly reporting that supports business decisions.
 
+## Dashboard Preview
+
+![E-Commerce Performance Review Dashboard](screenshots/dashboard_overview.png)
+
+## Key Insights
+
+See [Business Findings & Insights](docs/findings.md) for the analysis and business recommendations.
+
 ## Business Problem
 
 Total order value does not necessarily represent realized revenue. Orders may be cancelled, remain pending, or be returned. Looking at order value alone can therefore give an incomplete picture of business performance.
@@ -53,9 +61,11 @@ The difference between total order value and realized revenue requires interpret
 
 ## Repository Structure
 
-```text
-ecommerce-sales-analytics/
+ecommerce-performance-review-analytics/
 ├── README.md
-├── screenshots/
-└── data_sample/
-```
+├── docs/
+│   ├── decision_log.md
+│   └── findings.md
+└── screenshots/
+    ├── dashboard_overview.png
+    ├── timeline_apr 2024 to oct 2024.png
